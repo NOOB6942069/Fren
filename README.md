@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQE1sIeqPvzgTQ/profile-displaybackgroundimage-shrink_350_1400/0/1681397499733?e=1697673600&v=beta&t=1EpXRedkFSJh57xeKEhiRo2vTqOPGkFQTN_p7QiqtWo)
 <h1 align="center">Hi :wave:, I'm Sarthak Guleria</h1>
-<h3 align="center">A passionate marketer and aspiring to be qa developer from web3 world.</h3>
+<h3 align="center">A passionate marketer and a Community guy.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 
