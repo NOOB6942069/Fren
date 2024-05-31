@@ -12,13 +12,12 @@
 
 - :seedling: I'm currently learning **Python and Java Script**
 
-- :speech_balloon: Ask me about **Marketing,Community building, Points, campaigns and more **
+- :speech_balloon: Ask me about **Marketing,Community building, Points, campaigns and more**
 
 - :mailbox: How to reach me **https://www.linkedin.com/in/sarthak-guleria-64ba12229/**
 
 - :page_facing_up: Know about my experiences [https://sarthakguleria.notion.site/sarthakguleria/Sarthak-Guleria-Fren-f3006f4b99514ee9a1adbe56740c2a69](https://sarthakguleria.notion.site/sarthakguleria/Sarthak-Guleria-Fren-f3006f4b99514ee9a1adbe56740c2a69)
 
-- :zap: Fun fact **Started as a community manager, now diving into QA.I think WAGMI ₿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
