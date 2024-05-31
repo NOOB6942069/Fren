@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/fren_xcvm" target="blank"><img src="https://img.shields.io/twitter/follow/fren_xcvm?logo=twitter&style=for-the-badge" alt="fren_xcvm" /></a> </p>
 
-- :telescope: I'm currently working with [Composable Finance](https://www.composable.finance/)
+- :telescope: I'm currently working with [MilkyWay zone](https://www.app.milkyway.zone)
 
 - :seedling: I'm currently learning **Python and Java Script**
 
-- :speech_balloon: Ask me about **Marketing,Community building**
+- :speech_balloon: Ask me about **Marketing,Community building, Points, campaigns and more **
 
 - :mailbox: How to reach me **https://www.linkedin.com/in/sarthak-guleria-64ba12229/**
 
